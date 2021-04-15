@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.preant{
+    height: 100vh - 100px;
+    width: 100%;
+}
+.coral-div{
+    width:70%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-left: 15% ;
+    margin-top: 50px;
+
+}
+.coral{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.coral p{
+    margin-top: 20px;
+}
+.asdf{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top : 250px;
+}
+.asdf button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.asdf-text{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top :50px;
+}
+.asdf-text p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.asdf-text a{
+    color: #0000ff;
+}
+body{
+    background-color: wheat;
+}
